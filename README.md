@@ -5,7 +5,7 @@
 - 🔭 I’m currently working only on projects from my courses
 - 🌱 I’m currently learning whatever I can 🤣
 - 👯 I’m looking to finally start on a personal project
-- 🥅 2020 Goals: Use Github more
+- 🥅 2022 Goals: Use Github more
 - ⚡ Fun fact: I love to write short stories and learn languages🇷🇺🇳🇬🇲🇽🇫🇷
 
 ### Connect with me:
