@@ -1,6 +1,6 @@
-### Hi there, I'm Ozioma - aka [Ozziekins] 👋
+### Hi there, I'm Ozioma Okonicha - aka [Ozziekins] 👋
 
-## I'm a Computer Science Student and Future Software Engineer!
+## I'm a Computer Science Student and Future Software Engineer / Data Scientist!
 
 - 🔭 I’m currently working only on projects from my courses
 - 🌱 I’m currently learning whatever I can 🤣
@@ -28,7 +28,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="26px" src="https://e7.pngegg.com/pngimages/219/411/png-clipart-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
