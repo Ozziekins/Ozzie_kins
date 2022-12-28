@@ -3,10 +3,10 @@
 ## I'm a Computer Science Student and Future Software Engineer / Data Scientist!
 
 - 🔭 I’m currently working only on projects from my courses
-- 🌱 I’m currently learning whatever I can 🤣
+- 🌱 I’m currently learning whatever I can 
 - 👯 I’m looking to finally start on a personal project
 - 🥅 2022 Goals: Use Github more
-- ⚡ Fun fact: I love to write short stories and learn languages🇷🇺🇳🇬🇲🇽🇫🇷
+- ⚡ Fun fact: I love to dabble in interior design and learn languages🇷🇺🇳🇬🇲🇽🇫🇷
 
 ### Connect with me:
 
