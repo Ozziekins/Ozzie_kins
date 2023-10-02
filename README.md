@@ -1,48 +1,58 @@
-### Hi there, I'm Ozioma Okonicha - aka [Ozziekins] 👋
+# Hello, I'm Ozioma Okonicha, but you can call me Ozziekins! 👋
+I'm an experienced Computer Science student with a strong passion for software engineering and data science. As a dedicated developer, I believe in the power of code to transform ideas into reality. Here's a glimpse into my world:
 
-## I'm a Computer Science Student and Future Software Engineer / Data Scientist!
+💻 Currently immersed in challenging coursework projects that hone my skills.  
+🧠 Always curious, I never stop learning and exploring the vast world of technology.  
+💡 Excited to embark on my personal project journey, turning ideas into innovative solutions.  
+🎯 2023 Goals: Enhancing my GitHub presence and contributing to impactful open-source projects.  
+🎮 Fun fact: Apart from my love for coding, I enjoy gaming and experimenting with interior design and mastering new languages (🇳🇬🇲🇽🇫🇷🇦🇿).  
 
-- 🔭 I’m currently working only on projects from my courses
-- 🌱 I’m currently learning whatever I can 
-- 👯 I’m looking to finally start on a personal project
-- 🥅 2022 Goals: Use Github more
-- ⚡ Fun fact: I love to dabble in interior design and learn languages🇷🇺🇳🇬🇲🇽🇫🇷
+### Let's Connect:
 
-### Connect with me:
+[<img align="left" alt="Ozziekins | LinkedIn" width="22px" src="https://www.svgrepo.com/show/54425/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ozziekins | Website" width="22px" src="https://www.svgrepo.com/show/396567/globe-with-meridians.svg" />][website]
 
-[<img align="left" alt="Ozziekins | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ozziekins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ozziekins | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Docker" width="26px" src="https://e7.pngegg.com/pngimages/219/411/png-clipart-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[linkedin]: https://www.linkedin.com/in/ozioma-okonicha-ozziekins/
+[website]: https://www.ozziekins.dev/
 
 <br />
+
+### Languages and Tools I love:  
+<img align="left" alt="HTML" width="26px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
+<img align="left" alt="Github" width="26px" src="https://www.svgrepo.com/show/475654/github-color.svg" />
+<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://www.svgrepo.com/show/452092/react.svg" />
+<img align="left" alt="Vue" width="26px" src="https://www.svgrepo.com/show/452130/vue.svg" />
+<img align="left" alt="TS" width="26px" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img align="left" alt="CSS" width="26px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
+<img align="left" alt="Node" width="26px" src="https://www.svgrepo.com/show/376337/node-js.svg" />
+<img align="left" alt="Jest" width="26px" src="https://www.svgrepo.com/show/353930/jest.svg" />
+<img align="left" alt="Cypress" width="26px" src="https://www.svgrepo.com/show/373542/cypress.svg" />
+<img align="left" alt="npm" width="26px" src="https://www.svgrepo.com/show/354128/npm.svg" />
+<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/452091/python.svg" />
+<svg align="left" alt="Ansible" width="26px" style="color: #0077B5" src="https://www.svgrepo.com/show/341603/ansible.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://www.svgrepo.com/show/373699/jenkins.svg" />
+<img align="left" alt="AWS" width="26px" src="https://www.svgrepo.com/show/448266/aws.svg" />
+<img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/448221/docker.svg" />
+<img align="left" alt="Prometheus" width="26px" src="https://www.svgrepo.com/show/374008/prometheus.svg" />
+<img align="left" alt="Bash" width="26px" src="https://www.svgrepo.com/show/336126/terminal.svg" />
+<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
+<img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/373482/c.svg" />
+<img align="left" alt="Postgres" width="26px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+<img align="left" alt="Mongo" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img align="left" alt="Neo4j" width="26px" src="https://www.svgrepo.com/show/353834/graphql.svg" />
+<img align="left" alt="Hadoop" width="26px" src="https://www.svgrepo.com/show/353851/hadoop.svg" />
+<svg align="left" alt="Notion" width="26px" style="color: #0011ff" src="https://www.svgrepo.com/show/342071/notion.svg" />
+<img align="left" alt="Trello" width="26px" src="https://www.svgrepo.com/show/475688/trello-color.svg" />
+
+<br />
 <br />
 
----
-
-
+### Additional
 <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Ozziekins's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ozziekins&show_icons=true&hide_border=true" />
-
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Ozziekins's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ozziekins&show_icons=true&hide_border=true&hide=issues,contribs&theme=transparent" />
 </details>
 
-[twitter]: https://twitter.com/KinsOzzie
-[instagram]: https://www.instagram.com/ozzie__kins/
-[linkedin]: https://www.linkedin.com/in/ozioma-okonicha-6b6923188/
+###
+Feel free to reach out let's collaborate together! 🚀
